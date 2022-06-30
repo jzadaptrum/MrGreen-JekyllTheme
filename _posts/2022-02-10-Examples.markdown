@@ -5,7 +5,7 @@ title: Examples
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
-author: Mr. Green's Workshop
+author: J&Z's Workshop
 # multiple category is not supported
 category: jekyll
 # multiple tag entries are possible
@@ -39,7 +39,7 @@ date: 2022-02-10 08:11:06 +0900
 
 <!-- outline-start -->
 
-This is an example page to display markdown related styles for Mr. Green Jekyll Theme.
+This is an example page to display markdown related styles for J&Z Jekyll Theme.
 
 <!-- outline-end -->
 
@@ -108,7 +108,7 @@ kbd text <kbd>Hello world</kbd>
 
 ### Link
 
-This is [Mr. Green Jekyll Theme](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme), a simple theme built for [Jekyll](https://jekyllrb.com/).
+This is [J&Z Jekyll Theme](https://github.com/jzadaptrum/JandZ-JekyllTheme), a simple theme built for [Jekyll](https://jekyllrb.com/).
 
 \* Hello world! This is **[{{ site.data.owner[site.data.conf.main.default_lng].brand }}]({{ site.url }})**
 

@@ -1,11 +1,11 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_Mr_Green_Jekyll_Theme
-title: "Mr. Green Jekyll テーマ"
+lng_pair: id_JandZ_Jekyll_Theme
+title: "J&Z Jekyll テーマ"
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
-author: Mr. Green's Workshop
+author: J&Z's Workshop
 # multiple category is not supported
 category: jekyll
 # multiple tag entries are possible

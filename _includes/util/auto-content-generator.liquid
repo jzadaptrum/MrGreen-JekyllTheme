@@ -1,6 +1,6 @@
 {%-comment-%}
-  Mr. Green Jekyll Theme - v1.1.0 (https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme)
-  Copyright (c) 2022 Mr. Green's Workshop https://www.MrGreensWorkshop.com
+  J&Z Jekyll Theme - v1.1.0 (https://github.com/jzadaptrum/JandZ-JekyllTheme)
+  Copyright (c) 2022 J&Z's Workshop https://www.jzadaptrum.com
   Licensed under MIT
 {%-endcomment-%}
 
@@ -12,12 +12,12 @@
 {%- assign readme_lng = lng -%}
 {%- if lng != "en" and lng != "ja"%}{%- assign readme_lng = "en" -%}{%-endif-%}
 
-{% include multi_lng/get-page-by-lng-pair-and-lng.liquid lng_pair="id_Mr_Green_Jekyll_Theme" layout="post" lng=readme_lng -%}
+{% include multi_lng/get-page-by-lng-pair-and-lng.liquid lng_pair="id_J&Z_Jekyll_Theme" layout="post" lng=readme_lng -%}
 
 {%- assign website_info_text = site.data.owner[lng].auto_content.text |
   replace: "Jekyll", "[Jekyll](https://jekyllrb.com/)" |
   replace: "GitHub Pages", "[GitHub Pages](https://pages.github.com/)" |
-  replace: site.data.conf.main.brand_replace, "[Mr. Green](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme)"
+  replace: site.data.conf.main.brand_replace, "[J&Z](https://github.com/jzadaptrum/JandZ-JekyllTheme)"
 %}
 
 {%- for index in (1..5) %}

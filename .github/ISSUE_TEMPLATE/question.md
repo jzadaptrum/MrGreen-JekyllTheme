@@ -8,4 +8,4 @@ assignees: ''
 ---
 
 Please use Discussions to ask a question
-https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/discussions
+https://github.com/jzadaptrum/JandZ-JekyllTheme/discussions

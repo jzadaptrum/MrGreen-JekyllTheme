@@ -1,22 +1,22 @@
-[[English](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/blob/main/README.md#readme)] [日本語]
+[[English](https://github.com/jzadaptrum/JandZ-JekyllTheme/blob/main/README.md#readme)] [日本語]
 
-## Mr. Green Jekyll テーマ
+## J&Z Jekyll テーマ
 
 <!-- readme -->
 
-[<img src="https://img.shields.io/github/issues/MrGreensWorkshop/MrGreen-JekyllTheme" alt="GitHub issues" data-no-image-viewer>](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/issues)
-[<img src="https://img.shields.io/github/forks/MrGreensWorkshop/MrGreen-JekyllTheme" alt="GitHub forks" data-no-image-viewer>](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/blob/main/README-jp.md#readme)
-[<img src="https://img.shields.io/github/stars/MrGreensWorkshop/MrGreen-JekyllTheme" alt="GitHub stars" data-no-image-viewer>](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/blob/main/README-jp.md#readme)
-[<img src="https://img.shields.io/github/license/MrGreensWorkshop/MrGreen-JekyllTheme" alt="GitHub license" data-no-image-viewer>](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/blob/main/LICENSE)
-[<img src="https://shields.io/badge/Patreon-Tip%20me-blue?logo=Patreon" alt="Patreonで支援" data-no-image-viewer>](https://patreon.com/MrGreenWorkshop "Patreonで支援")
-[<img src="https://shields.io/badge/Ko--fi-Tip%20me-blue?logo=kofi" alt="Ko-fiで支援" data-no-image-viewer>](https://www.ko-fi.com/MrGreenWorkshop "Ko-fiで支援")
+[<img src="https://img.shields.io/github/issues/jzadaptrum/JandZ-JekyllTheme" alt="GitHub issues" data-no-image-viewer>](https://github.com/jzadaptrum/JandZ-JekyllTheme/issues)
+[<img src="https://img.shields.io/github/forks/jzadaptrum/JandZ-JekyllTheme" alt="GitHub forks" data-no-image-viewer>](https://github.com/jzadaptrum/JandZ-JekyllTheme/blob/main/README-jp.md#readme)
+[<img src="https://img.shields.io/github/stars/jzadaptrum/JandZ-JekyllTheme" alt="GitHub stars" data-no-image-viewer>](https://github.com/jzadaptrum/JandZ-JekyllTheme/blob/main/README-jp.md#readme)
+[<img src="https://img.shields.io/github/license/jzadaptrum/JandZ-JekyllTheme" alt="GitHub license" data-no-image-viewer>](https://github.com/jzadaptrum/JandZ-JekyllTheme/blob/main/LICENSE)
+[<img src="https://shields.io/badge/Patreon-Tip%20me-blue?logo=Patreon" alt="Patreonで支援" data-no-image-viewer>](https://patreon.com/jzadaptrum "Patreonで支援")
+[<img src="https://shields.io/badge/Ko--fi-Tip%20me-blue?logo=kofi" alt="Ko-fiで支援" data-no-image-viewer>](https://www.ko-fi.com/jzadaptrum "Ko-fiで支援")
 
 ---
 
 <div align="center">
-  <img src="https://jekyll-theme-mrgreen-demo.mrgreensworkshop.com/assets/img/posts/mock1.jpg" height="500" alt="screen_mock">
+  <img src="https://jekyll-theme-jandz-demo.jzadaptrum.com/assets/img/posts/mock1.jpg" height="500" alt="screen_mock">
   <br><br>
-  <a href="https://jekyll-theme-mrgreen-demo.mrgreensworkshop.com/ja" style="font-weight: bold;" >ライブデモはこちら</a>
+  <a href="https://jekyll-theme-jandz-demo.jzadaptrum.com/ja" style="font-weight: bold;" >ライブデモはこちら</a>
 </div>
 
 
@@ -24,11 +24,11 @@
 
 <!-- outline-start -->
 
-[Mr. Green](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme) は、[Jekyll](https://jekyllrb-ja.github.io) で生成された、[GitHub Pages](https://pages.github.com/) と完全に互換性のある多言語テーマです。
+[J&Z](https://github.com/jzadaptrum/JandZ-JekyllTheme) は、[Jekyll](https://jekyllrb-ja.github.io) で生成された、[GitHub Pages](https://pages.github.com/) と完全に互換性のある多言語テーマです。
 
 <!-- outline-end -->
 
-私は自分のWebサイトを作るつもりでしたが、それをテンプレートとして作成すれば、オープンソースコミュニティと共有できると思い、テーマとして作ることにしました。 このプロジェクトの作成に多くの時間と労力を費やしました。そのため、[サポートする](https://github.com/MrGreensWorkshop#sponsorship)ことを考えて頂けたら嬉しいです。
+私は自分のWebサイトを作るつもりでしたが、それをテンプレートとして作成すれば、オープンソースコミュニティと共有できると思い、テーマとして作ることにしました。 このプロジェクトの作成に多くの時間と労力を費やしました。そのため、[サポートする](https://github.com/jzadaptrum#sponsorship)ことを考えて頂けたら嬉しいです。
 
 ### Features
 
@@ -65,7 +65,7 @@
 
 #### Github pages
 
-1. [リポをフォークする](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/fork)。
+1. [リポをフォークする](https://github.com/jzadaptrum/JandZ-JekyllTheme/fork)。
 1. \_config.yml を編集し、`url` を以下のように変え、変更をプッシュする。
 
    ```yaml
@@ -79,7 +79,7 @@
 #### Local build
 
 1. [Jekyll をインストール](https://jekyllrb-ja.github.io/docs/installation/)する。
-1. リポをクローン、または [ダウンロード](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/releases/latest)し、コマンドプロンプトでフォルダに移動し、`bundle install` コマンドを実行する。
+1. リポをクローン、または [ダウンロード](https://github.com/jzadaptrum/JandZ-JekyllTheme/releases/latest)し、コマンドプロンプトでフォルダに移動し、`bundle install` コマンドを実行する。
 1. `bundle exec jekyll serve --watch --host 0.0.0.0 --safe`コマンドでビルドする。
     - `--host 0.0.0.0` を指定すると、同じ LAN から Web サーバーにアクセスすることができる。
     - `--safe`を指定すると、第三者のプラグインが追加されていないことが確認できる。(Github ページ開発用)
@@ -87,7 +87,7 @@
 
 ### Documentation
 
-YouTubeの[Mr. Green テーマチュートリアルのプレイリスト](https://www.youtube.com/playlist?list=PL8XOPe9jXvWOrg6XAulRzy9MQl_-A7Yns)を確認してみてください。
+YouTubeの[J&Z テーマチュートリアルのプレイリスト](https://www.youtube.com/playlist?list=PL8XOPe9jXvWOrg6XAulRzy9MQl_-A7Yns)を確認してみてください。
 
 ### Credits
 
@@ -97,9 +97,9 @@ YouTubeの[Mr. Green テーマチュートリアルのプレイリスト](https:
 
 - [GitHub Pages](https://pages.github.com/) は、GitHub のリポジトリから直接ホスティングされる。変更をプッシュするだけで、サイトが自動生成。
 
-このプロジェクト作成中に見つけた役立つサイトを紹介します。[リンクページへ](https://jekyll-theme-mrgreen-demo.mrgreensworkshop.com/ja/tabs/links.html)
+このプロジェクト作成中に見つけた役立つサイトを紹介します。[リンクページへ](https://jekyll-theme-jandz-demo.jzadaptrum.com/ja/tabs/links.html)
 
-### [You Can Support My Work](https://github.com/MrGreensWorkshop/MrGreensWorkshop/blob/main/README-jp.md#スポンサーシップ)
+### [You Can Support My Work](https://github.com/jzadaptrum/jzadaptrum/blob/main/README-jp.md#スポンサーシップ)
 
 何もないところからプロジェクトを立ち上げるのは、とても時間がかかるものです。私がこの様なプロジェクトに取り組み続け、皆さんに新しいコンテンツを提供できるよう、支援をご検討いただければ幸いです。
 
@@ -109,27 +109,27 @@ YouTubeの[Mr. Green テーマチュートリアルのプレイリスト](https:
 
 ### License
 
-[MIT license](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/blob/main/LICENSE)でも示されている通り、ライセンス及び著作権表示をした上で、このテーマをどこでも使用することができます。
+[MIT license](https://github.com/jzadaptrum/JandZ-JekyllTheme/blob/main/LICENSE)でも示されている通り、ライセンス及び著作権表示をした上で、このテーマをどこでも使用することができます。
 
-`Copyright (c) 2022 Mr. Green's Workshop https://www.MrGreensWorkshop.com`
+`Copyright (c) 2022 J&Z's Workshop https://www.jzadaptrum.com`
 
-ご利用の際に私のページへのリンクを貼ったり、フッターの "Pwrd by Mr. Green "のリンクを残したりして頂くと、私の作品に対してクレジットが得られます。
+ご利用の際に私のページへのリンクを貼ったり、フッターの "Pwrd by J&Z "のリンクを残したりして頂くと、私の作品に対してクレジットが得られます。
 
 ありがとうございます。
 
 ### Other Licenses
 
-Mr. Green Jekyll テーマには、以下のライブラリが組み込まれています。これらのライブラリがなければ、このテーマを完成させることができませんでした。
+J&Z Jekyll テーマには、以下のライブラリが組み込まれています。これらのライブラリがなければ、このテーマを完成させることができませんでした。
 
 | Library                              | file |
 | :----------------------------------- | ---- |
-| [jQuery v3.6.0](https://github.com/jquery/jquery/tree/3.6.0), Copyright [OpenJS Foundation](https://openjsf.org) and other contributors. jQuery is distributed under the terms of the MIT License. | [jquery-3.6.0.min.js](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/blob/main/assets/js/jquery-3.6.0.min.js) |
-| [Bootstrap v3.3.7](https://github.com/twbs/bootstrap/tree/v3.3.7), Copyright (c) 2011-2016 Twitter, Inc. Bootstrap is distributed under the terms of the MIT License. | [bootstrap.min.js](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/blob/main/assets/js/bootstrap.min.js), [bootstrap.min.css](assets/css/bootstrap.min.css) |
-| [Bootstrap Table of Contents v0.4.1](https://github.com/afeld/bootstrap-toc/tree/v0.4.1), Copyright (c) 2015 Aidan Feldman Aidan Feldman. Bootstrap Table of Contents is distributed under the terms of the MIT License. | [bootstrap-toc.min.js](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/blob/main/assets/js/bootstrap-toc.min.js), [bootstrap-toc.min.css](assets/css/bootstrap-toc.min.css) |
-| [Font Awesome v4.7.0](https://github.com/FortAwesome/Font-Awesome/tree/v4.7.0), Copyright (c) 2017 Dave Gandy. The Font Awesome font is distributed under the terms of the [SIL OFL 1.1](http://scripts.sil.org/OFL). Font Awesome CSS, LESS, and Sass files are distributed under the terms of the [MIT License](https://opensource.org/licenses/mit-license.html). | [font-awesome.min.css](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/blob/main/assets/css/font-awesome.min.css), [FontAwesome](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/blob/main/assets/fonts/) |
-| [Lozad.js v1.16.0](https://github.com/ApoorvSaxena/lozad.js/tree/v1.16.0), Copyright (c) 2017 Apoorv Saxena. Lozad.js is distributed under the terms of the MIT License. | [lozad.min.js](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/blob/main/assets/js/lozad.min.js) |
-| [Magnific Popup v1.1.0](https://github.com/dimsemenov/Magnific-Popup/tree/1.1.0), Copyright (c) 2014-2016 Dmitry Semenov, http://dimsemenov.com. Magnific Popup is distributed under the terms of the MIT License. | [jquery.magnific-popup.min.js](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/blob/main/assets/js/jquery.magnific-popup.min.js), [magnific-popup.css](assets/css/magnific-popup.css) |
-| [Simple-Jekyll-Search v1.9.2](https://github.com/christian-fei/Simple-Jekyll-Search/tree/v1.9.2), Copyright (c) 2015 Christian Fei. Simple-Jekyll-Search is distributed under the terms of the MIT License. | [simple-jekyll-search-1.9.2.min.js](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/blob/main/assets/js/simple-jekyll-search-1.9.2.min.js) |
-| [Compress HTML in Jekyll v3.1.0](https://github.com/penibelst/jekyll-compress-html/tree/v3.1.0), Copyright (c) 2014 Anatol Broder. Compress HTML in Jekyll is distributed under the terms of the MIT License. | [compress.liquid](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/blob/main/_layouts/util/compress.liquid) |
+| [jQuery v3.6.0](https://github.com/jquery/jquery/tree/3.6.0), Copyright [OpenJS Foundation](https://openjsf.org) and other contributors. jQuery is distributed under the terms of the MIT License. | [jquery-3.6.0.min.js](https://github.com/jzadaptrum/JandZ-JekyllTheme/blob/main/assets/js/jquery-3.6.0.min.js) |
+| [Bootstrap v3.3.7](https://github.com/twbs/bootstrap/tree/v3.3.7), Copyright (c) 2011-2016 Twitter, Inc. Bootstrap is distributed under the terms of the MIT License. | [bootstrap.min.js](https://github.com/jzadaptrum/JandZ-JekyllTheme/blob/main/assets/js/bootstrap.min.js), [bootstrap.min.css](assets/css/bootstrap.min.css) |
+| [Bootstrap Table of Contents v0.4.1](https://github.com/afeld/bootstrap-toc/tree/v0.4.1), Copyright (c) 2015 Aidan Feldman Aidan Feldman. Bootstrap Table of Contents is distributed under the terms of the MIT License. | [bootstrap-toc.min.js](https://github.com/jzadaptrum/JandZ-JekyllTheme/blob/main/assets/js/bootstrap-toc.min.js), [bootstrap-toc.min.css](assets/css/bootstrap-toc.min.css) |
+| [Font Awesome v4.7.0](https://github.com/FortAwesome/Font-Awesome/tree/v4.7.0), Copyright (c) 2017 Dave Gandy. The Font Awesome font is distributed under the terms of the [SIL OFL 1.1](http://scripts.sil.org/OFL). Font Awesome CSS, LESS, and Sass files are distributed under the terms of the [MIT License](https://opensource.org/licenses/mit-license.html). | [font-awesome.min.css](https://github.com/jzadaptrum/JandZ-JekyllTheme/blob/main/assets/css/font-awesome.min.css), [FontAwesome](https://github.com/jzadaptrum/JandZ-JekyllTheme/blob/main/assets/fonts/) |
+| [Lozad.js v1.16.0](https://github.com/ApoorvSaxena/lozad.js/tree/v1.16.0), Copyright (c) 2017 Apoorv Saxena. Lozad.js is distributed under the terms of the MIT License. | [lozad.min.js](https://github.com/jzadaptrum/JandZ-JekyllTheme/blob/main/assets/js/lozad.min.js) |
+| [Magnific Popup v1.1.0](https://github.com/dimsemenov/Magnific-Popup/tree/1.1.0), Copyright (c) 2014-2016 Dmitry Semenov, http://dimsemenov.com. Magnific Popup is distributed under the terms of the MIT License. | [jquery.magnific-popup.min.js](https://github.com/jzadaptrum/JandZ-JekyllTheme/blob/main/assets/js/jquery.magnific-popup.min.js), [magnific-popup.css](assets/css/magnific-popup.css) |
+| [Simple-Jekyll-Search v1.9.2](https://github.com/christian-fei/Simple-Jekyll-Search/tree/v1.9.2), Copyright (c) 2015 Christian Fei. Simple-Jekyll-Search is distributed under the terms of the MIT License. | [simple-jekyll-search-1.9.2.min.js](https://github.com/jzadaptrum/JandZ-JekyllTheme/blob/main/assets/js/simple-jekyll-search-1.9.2.min.js) |
+| [Compress HTML in Jekyll v3.1.0](https://github.com/penibelst/jekyll-compress-html/tree/v3.1.0), Copyright (c) 2014 Anatol Broder. Compress HTML in Jekyll is distributed under the terms of the MIT License. | [compress.liquid](https://github.com/jzadaptrum/JandZ-JekyllTheme/blob/main/_layouts/util/compress.liquid) |
 
-[Mr. Green Jekyll テーマ](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme)
+[J&Z Jekyll テーマ](https://github.com/jzadaptrum/JandZ-JekyllTheme)
