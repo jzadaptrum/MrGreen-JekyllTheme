@@ -14,9 +14,9 @@
 ---
 
 <div align="center">
-  <img src="https://jekyll-theme-jandz-demo.jzadaptrum.com/assets/img/posts/mock1.jpg" height="500" alt="screen_mock">
+  <img src="https://https://jzadaptrum.github.io/assets/img/posts/mock1.jpg" height="500" alt="screen_mock">
   <br><br>
-  <a href="https://jekyll-theme-jandz-demo.jzadaptrum.com/ja" style="font-weight: bold;" >ライブデモはこちら</a>
+  <a href="https://jzadaptrum.github.io/ja" style="font-weight: bold;" >ライブデモはこちら</a>
 </div>
 
 
