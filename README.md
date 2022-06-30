@@ -14,9 +14,9 @@
 ---
 
 <div align="center">
-  <img src="https://jekyll-theme-jandz-demo.jzadaptrum.com/assets/img/posts/mock1.jpg" height="500" alt="screen_mock">
+  <img src="https://jzadaptrum.github.io/assets/img/posts/mock1.jpg" height="500" alt="screen_mock">
   <br><br>
-  <a href="https://jekyll-theme-jandz-demo.jzadaptrum.com" style="font-weight: bold;" >Click here for live demo</a>
+  <a href="https://jzadaptrum.github.io" style="font-weight: bold;" >Click here for live demo</a>
 </div>
 
 
