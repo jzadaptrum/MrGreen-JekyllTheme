@@ -19,7 +19,7 @@ home:
 
 # about page sub title
 about:
-  sub_title: "$site_sample"
+  sub_title: "Awesome jekyll theme"
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
@@ -49,12 +49,12 @@ meta_common_description: "Your meta description."
 # comment to remove any contact item
 contacts:
   - github: "jzadaptrum"
-  #- email: ""
-  #- linkedin: ""
-  #- twitter: ""
-  #- instagram: ""
-  #- youtube: ""
-  #- facebook: ""
+  - email: ""
+  - linkedin: ""
+  - twitter: ""
+  - instagram: ""
+  - youtube: ""
+  - facebook: ""
 # to add more, check the _data/const/contact.yml file
 #  - your_new_contact: ""
 
