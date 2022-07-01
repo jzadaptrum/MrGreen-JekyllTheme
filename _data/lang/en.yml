@@ -165,9 +165,9 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: Hello
+  greetings: Hello!
   welcome: Welcome
-  sample: Sample
+  sample: ASHR
 
 # for cookie consent
 cookie_consent:
