@@ -55,7 +55,7 @@ greetings_replace: "$site_greetings"
 welcome_replace: "$site_welcome"
 
 # replace text with data.lang[language].constants.sample
-sample_replace: "$site_sample"
+sample_replace: "This is a personal website or blog using GitHub Pages"
 
 ###########################################################
 #                Search
