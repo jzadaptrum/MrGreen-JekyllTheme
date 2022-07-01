@@ -42,10 +42,10 @@ date: 2021-10-15 19:20:03 +0900
 #{%- include util/auto-content-generator.liquid -%}
 This is a personal website or blog using GitHub Page.
 
-<!-- outline-start -->
+#<!-- outline-start -->
 
-{{ website_info_text_first }}
+#{{ website_info_text_first }}
 
-<!-- outline-end -->
+#<!-- outline-end -->
 
-{{ website_info_text_second }}
+#{{ website_info_text_second }}
