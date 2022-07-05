@@ -149,6 +149,7 @@ archives:
 about:
   title: About
   button_name: About
+  sub_title: "Awesome jekyll theme"
   email_title: email
 
 # for links layout
