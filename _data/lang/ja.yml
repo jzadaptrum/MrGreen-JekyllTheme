@@ -27,7 +27,6 @@ not_found:
 no_translation_tooltip: 訳がありません
 
 navigation:
-  brand_sub_text: Jekyllテーマ
   contact_header: コンタクト
 
 color_scheme_switch_tooltip: 配色
@@ -44,7 +43,7 @@ copyright:
 
 creative_commons:
   some_rights_reserved: 一部の権利は留保されています。
-  # check _data/owner.yml for license type.
+  # check _data/owner/[language].yml for license type.
   by: 特に明記されていない限り、このWebサイトのコンテンツはクリエイティブ・コモンズ 表示 4.0 国際 ライセンスの下に提供されています。
   by-nd: 特に明記されていない限り、このWebサイトのコンテンツはクリエイティブ・コモンズ 表示 - 改変禁止 4.0 国際 ライセンスの下に提供されています。
   by-sa: 特に明記されていない限り、このWebサイトのコンテンツはクリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンスの下に提供されています。
@@ -61,6 +60,10 @@ post:
   read_time:
     unit: "分"
     text: "で読めます"
+    # c for char w for word
+    word_char: c
+    # char or words per minute
+    per_minute: 500
   pager_buttons:
     older_post: "← 古い投稿へ"
     newer_post: "新しい投稿へ →"
@@ -129,10 +132,6 @@ home:
   button_name: ホーム
   new_posts_title: 新着記事
   new_posts_show_more_button: もっと見る ...
-  # you can use $site_brand in line1 and line2 to convert your site.data.owner.brand text
-  top_header_line1: "ようこそ"
-  # if commented, top header will be a single line
-  top_header_line2: "$site_brand テーマへ"
 
 # for archives layout
 archives:
@@ -144,7 +143,6 @@ archives:
 about:
   title: 私について
   button_name: 私について
-  sub_title: クールなjekyllテーマ
   email_title: メール
 
 # for links layout
@@ -165,25 +163,21 @@ projects:
 privacy-policy:
   title: &privacy_policy_title プライバシーポリシー
 
-# seo meta this is needed for each language
-# If meta_description is not defined in front matter, it's created from (post / page) content,
-# if it has no content, this will be used for page description. It is also used in manifest.json
-meta_common_description: &meta_info $site_brand は、Jekyll で生成された、GitHub Pages と完全に互換性のある多言語テーマです。
+# constants to be replaced for
+constants:
+  greetings: こんにちは
+  welcome: ようこそ
+  sample: シャンハイネ人
 
-auto_content:
-  title: サンプル投稿(自動生成)
-  greeting: "こんにちは!"
-  text: *meta_info
-  more_info: 詳しくはこちら。
-  auto_generated_text: この内容は、選択された言語で表示するための自動生成サンプルです。
-
+# for cookie consent
 cookie_consent:
   privacy_policy_link_text: *privacy_policy_title
   side_nav_setting_button_tooltip: &cookie_settings クッキー設定
   panel_bar:
     msg: >
       当Webサイトは、機能を最適化するためにクッキーを使用しています。
-      承認後に有効になります。$privacy_linkを確認する。
+      承認後に有効になります。
+    privacy_msg: $privacy_linkを確認する。
     buttons:
       accept: &accept_button 全て許可
       settings: 設定
@@ -192,7 +186,8 @@ cookie_consent:
     title: *cookie_settings
     msg: >
       当Webサイトは、機能を最適化するためにクッキーを使用しています。
-      承認後に有効になります。クッキーポリシーについては、以下の各項目をクリックしてください。$privacy_linkを確認する。
+      承認後に有効になります。クッキーポリシーについては、以下の各項目をクリックしてください。
+    privacy_msg: $privacy_linkを確認する。
     buttons:
       accept: *accept_button
       save: 選択を許可
