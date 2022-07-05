@@ -21,7 +21,7 @@ date: 2022-03-03 12:32:10 +0900
 # seo
 # if not specified, date will be used.
 #meta_modify_date: 2022-03-03 12:32:10 +0900
-# check the meta_common_description in _data/owner/[language].yml
+# check the meta_common_description in _data/lang/[language].yml
 #meta_description: ""
 
 # optional
@@ -34,7 +34,7 @@ date: 2022-03-03 12:32:10 +0900
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-published: false
+#published: false
 ---
 
 {%- capture readme_file -%}{%- include_relative _README.md -%}{%- endcapture -%}

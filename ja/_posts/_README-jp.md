@@ -65,7 +65,7 @@
 
 #### Github pages
 
-1. [リポをフォークする](https://github.com/jzadaptrum/JandZ-JekyllTheme/fork)。
+1. リポをフォークする。
 1. \_config.yml を編集し、`url` を以下のように変え、変更をプッシュする。
 
    ```yaml
@@ -93,9 +93,9 @@ YouTubeの[J&Z テーマチュートリアルのプレイリスト](https://www.
 
 自分のWebサイトを構築する機会を与えてくれたこれらのプロジェクトに感謝します。
 
-- [Jekyll](https://jekyllrb-ja.github.io) は、静的サイトジェネレータ。好きなマークアップ言語で書かれたテキストを取り、静的なWebサイトを作成するためのレイアウトを使用している。自身でサイトのルック＆フィール、URL、ページに表示されるデータなどを微調整することができる。ボランティアによって維持されている素晴らしいプロジェクト。
+- [Jekyll](https://jekyllrb.com/) は、静的サイトジェネレータ。好きなマークアップ言語で書かれたテキストを取り、静的なWebサイトを作成するためのレイアウトを使用している。自身でサイトのルック＆フィール、URL、ページに表示されるデータなどを微調整することができる。ボランティアによって維持されている素晴らしいプロジェクト。
 
-- [GitHub Pages](https://pages.github.com/) は、GitHub のリポジトリから直接ホスティングされる。変更をプッシュするだけで、サイトが自動生成。
+- [GitHub Pages](https://pages.github.com/) GitHub はリポジトリから直接ホスティングされる。変更をプッシュするだけで、サイトが自動生成。
 
 このプロジェクト作成中に見つけた役立つサイトを紹介します。[リンクページへ](https://jekyll-theme-jandz-demo.jzadaptrum.com/ja/tabs/links.html)
 
