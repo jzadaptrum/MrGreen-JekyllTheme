@@ -41,7 +41,7 @@
 {%- capture website_info_text_first -%}
 {{ website_greeting_text }}
 
-{{ site.data.owner[lng].auto_content.auto_generated_text | default: const_sample }}
+{{ site.data.owner[lng].auto_content.auto_generated_text }}
 {%- endcapture -%}
 
 {%- capture website_info_text_second -%}
