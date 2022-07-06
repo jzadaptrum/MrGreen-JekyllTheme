@@ -177,6 +177,7 @@ meta_common_description: &meta_info $site_brand is a multilingual theme generate
 auto_content:
   title: Sample post (auto generated)
   greeting: Hello!
+  welcome: Welcome To
   text: *meta_info
   more_info: Learn More.
   auto_generated_text: This is an auto generated sample content for display in the selected language.
@@ -188,7 +189,8 @@ cookie_consent:
   panel_bar:
     msg: >
       This website uses cookies to optimize site functionality.
-      It will be activated with your approval. Check $privacy_link
+      It will be activated with your approval.
+    privacy_msg: Check $privacy_link.
     buttons:
       accept: &accept_button Allow all
       settings: Customize
