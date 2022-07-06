@@ -44,7 +44,7 @@ copyright:
 
 creative_commons:
   some_rights_reserved: Some rights reserved.
-  # check _data/owner/[language].yml for license type.
+  # check _data/owner.yml for license type.
   by: Except where otherwise noted, content on this web site is licensed under a Creative Commons Attribution 4.0 International License.
   by-nd: Except where otherwise noted, content on this web site is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.
   by-sa: Except where otherwise noted, content on this web site is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
@@ -133,11 +133,11 @@ home:
   button_name: Home
   new_posts_title: New Articles
   new_posts_show_more_button: View More ...
-# you can use $site_brand in line1 and line2 to convert your site.data.owner.brand text
+  # you can use $site_brand in line1 and line2 to convert your site.data.owner.brand text
   top_header_line1: "Welcome To"
   # if commented, top header will be a single line
   top_header_line2: "$site_brand Theme"
-  
+
 # for archives layout
 archives:
   title: Archive
