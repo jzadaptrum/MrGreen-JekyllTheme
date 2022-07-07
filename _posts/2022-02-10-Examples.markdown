@@ -114,7 +114,7 @@ This is [J&Z Jekyll Theme](https://github.com/jzadaptrum/JandZ-JekyllTheme), a s
 
 ### Picture
 
-![such a lovely place](:post_pic1.jpg)
+![such a lovely place](:post_pic1.JPG)
 
 ### Picture (centered)
 
